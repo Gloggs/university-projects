@@ -8,6 +8,7 @@ Each folder holds a summary of one project: what the brief was, what I built, th
 
 | Project | Unit | Year | Unit mark | What it shows |
 |---|---|---|---|---|
+| [Pneumonia classification with machine learning](pneumonia-classification) | Artificial Intelligence | Final | 90% | Python, scikit-learn, TensorFlow, model tuning, fair evaluation, research review |
 | [Two-site network design](networks-two-site-design) | Networks | Second | 78% | VLANs, subnetting, OSPF, DHCP, DNS, SSH, redundancy, Cisco Packet Tracer |
 
 More projects will be added as I write them up.
