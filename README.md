@@ -8,6 +8,7 @@ Each folder holds a summary of one project: what the brief was, what I built, th
 
 | Project | Unit | Year | Unit mark | What it shows |
 |---|---|---|---|---|
+| [Web-based attendance system](attendance-administration-system) ([live demo](https://webattendancesystem.vercel.app)) | Synoptic Project (dissertation) | Final | 62% | Full-stack Next.js, Google sign-in, offline and cloud database, 100/100 PageSpeed, deployed |
 | [Pneumonia classification with machine learning](pneumonia-classification) | Artificial Intelligence | Final | 90% | Python, scikit-learn, TensorFlow, model tuning, fair evaluation, research review |
 | [Two-site network design](networks-two-site-design) | Networks | Second | 78% | VLANs, subnetting, OSPF, DHCP, DNS, SSH, redundancy, Cisco Packet Tracer |
 | [Teaching 2FA security to beginners](2fa-security-presentation) | Ethical Hacking | Second | 75% | Web authentication, 2FA weaknesses and fixes, safe lab testing, teaching for non-experts |
