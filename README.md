@@ -11,6 +11,7 @@ Each folder holds a summary of one project: what the brief was, what I built, th
 | [Pneumonia classification with machine learning](pneumonia-classification) | Artificial Intelligence | Final | 90% | Python, scikit-learn, TensorFlow, model tuning, fair evaluation, research review |
 | [Two-site network design](networks-two-site-design) | Networks | Second | 78% | VLANs, subnetting, OSPF, DHCP, DNS, SSH, redundancy, Cisco Packet Tracer |
 | [Teaching 2FA security to beginners](2fa-security-presentation) | Ethical Hacking | Second | 75% | Web authentication, 2FA weaknesses and fixes, safe lab testing, teaching for non-experts |
+| [Connect 4 in three programming paradigms](connect4-three-paradigms) | Programming Languages and Paradigms | Final | 68% | Python (OOP), Go (procedural), Haskell (functional), one problem solved three ways |
 
 More projects will be added as I write them up.
 
